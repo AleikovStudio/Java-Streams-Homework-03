@@ -1,0 +1,124 @@
+/1493/sum-lines-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	4/1/16, 1:01 AM
+/1491/create-read-and-write-in-files-streams-in-java
+	Desktop 		Complete
+	
+URL submitted to index
+	4/1/16, 12:39 AM
+/1488/hit-the-target-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/29/16, 4:14 AM
+/1486/odd-and-even-pairs-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/29/16, 4:10 AM
+/1484/randomize-numbers-from-n-to-m-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/29/16, 4:06 AM
+/1482/convert-from-decimal-system-to-base-7-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/29/16, 4:00 AM
+/1480/calculate-expression-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/29/16, 3:53 AM
+/1478/how-to-connect-and-use-tortoisesvn-with-github
+	Desktop 		Complete
+	
+URL submitted to index
+	3/24/16, 12:24 PM
+/1471/suggest-java-course-or-video-tutorials-for-beginners
+	Desktop 		Complete
+	
+URL submitted to index
+	3/24/16, 1:44 AM
+/1468/formatting-and-converting-numbers-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/23/16, 10:47 AM
+/1464/rectangle-area-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/23/16, 9:14 AM
+/1466/triangle-area-with-given-x-and-y-as-coordinates-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/23/16, 9:14 AM
+/1462/ghetto-numeral-system-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/20/16, 8:16 AM
+/1460/sum-numbers-from-1-to-n-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/20/16, 8:03 AM
+/1460/sum-numbers-from-1-to-n-java-task?show=1461
+	Desktop 		Complete
+	
+	3/20/16, 8:03 AM
+/1457/print-a-character-triangle-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/20/16, 7:47 AM
+/1455/print-characters-letters-in-java-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/20/16, 7:25 AM
+/1453/assign-variables-java-task
+	Desktop 		Complete
+	
+URL submitted to index
+	3/20/16, 7:18 AM
+/1449/illuminati-lock-drawing-c%23-task
+	Desktop 		Complete
+	
+URL submitted to index
+	1/18/16, 2:20 AM
+/1447/beer-stock-c%23-task
+	Desktop 		Complete
+	
+URL submitted to index
+	1/18/16, 2:20 AM
+/1446/cake-tycoon-c%23-task
+	Desktop 		Complete
+	
+URL submitted to index
+	1/18/16, 2:20 AM
+/1440/phone-processes-c%23-task
+	Desktop 		Complete
+	
+URL submitted to index
+	1/18/16, 2:20 AM
+/1438/ani-is-drunk-c%23-task
+	Desktop 		Complete
+	
+URL submitted to index
+	1/18/16, 2:20 AM
+/1444/the-explorer-drawing-c%23-task
+	Desktop 		Complete
+	
+URL submitted to index
+	1/18/16, 2:20 AM
+/1442/illuminati-c%23-task
+	Desktop 		Complete
+	
+URL submitted to index
+	1/18/16, 2:19 AM

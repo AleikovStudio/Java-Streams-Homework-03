@@ -1,0 +1,3 @@
+Vowels: 515
+Consonants: 1753
+Punctuation: 26
